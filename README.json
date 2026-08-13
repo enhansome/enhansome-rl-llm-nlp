@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "description": "Blog posts on yam.gift are grouped into 7 tracks. Each verdict below is the author's own bottom-line judgment, not a paper summary.",
+      "items": [],
+      "title": "7 Tracks · The Author's Verdicts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Library"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RL Reasoning Reproduction (R1 and Beyond)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RL Data Selection & Scaling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reward Model (modeling / data / verifier)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Verifier-Free RL (internal-feedback RL)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Alignment Classics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MoE RL Stability"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Agentic RL (Step-Level Credit Assignment)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Optimization Algorithms (GRPO Family + Classics)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pre-R1 Foundations (Historical Anchors)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frontier RL — Boundary, Process Reward & Experience"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SFT × RL Interplay"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Beyond RL — Training-Free / Behavior Shaping / Real-time PEFT"
+    },
+    {
+      "description": "All blog posts in publishing order, with the author's one-sentence takeaway. Use this when you want to follow the narrative arc rather than search by paper.",
+      "items": [],
+      "title": "Chronological Blog Timeline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Appendix"
+    },
+    {
+      "description": "If this index or the linked blog posts are useful, leave a note on GitHub Issues, or cite yam.gift when referencing.",
+      "items": [],
+      "title": "Citation / Feedback"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:01.398Z",
+    "original_repository": "hscspring/rl-llm-nlp",
+    "original_repository_sha": "0fc27b79d300de06dbd84c32abe5bd44ed89b645",
+    "enhanced_repository": "enhansome/enhansome-rl-llm-nlp",
+    "enhanced_repository_description": null,
+    "title": "Awesome RL-LLM-NLP with stars"
+  }
+}

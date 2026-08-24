@@ -1,7 +1,571 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "prime-rl",
+          "description": "PrimeIntellect-ai 2025 Decentralized large-scale RL training framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934553284,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:39:30Z",
+            "owner": "PrimeIntellect-ai",
+            "repo": "prime-rl",
+            "stars": 1963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRIME",
+          "description": "PRIME-RL 2025 Scalable RL recipe for reasoning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 910395438,
+            "language": "Python",
+            "last_commit": "2025-03-18T04:02:27Z",
+            "owner": "PRIME-RL",
+            "repo": "PRIME",
+            "stars": 1870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rStar",
+          "description": "Microsoft 2025 Self-evolved deep reasoning for SLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 848189443,
+            "language": "Python",
+            "last_commit": "2025-09-12T08:26:02Z",
+            "owner": "microsoft",
+            "repo": "rStar",
+            "stars": 1425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veRL",
+          "description": "ByteDance 2024 LLM RL training framework (Volcano Engine)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 881221486,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:11:26Z",
+            "owner": "verl-project",
+            "repo": "verl",
+            "stars": 23106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trl",
+          "description": "HuggingFace 2024 Train language models with RL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250510075,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:44:18Z",
+            "owner": "huggingface",
+            "repo": "trl",
+            "stars": 19144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RL4LMs",
+          "description": "Allen 2023 Aligning LMs to human preference via RL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 526069335,
+            "language": "Python",
+            "last_commit": "2024-03-01T14:03:46Z",
+            "owner": "allenai",
+            "repo": "RL4LMs",
+            "stars": 2394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alignment-handbook",
+          "description": "HuggingFace 2023 Recipes for aligning to human/AI preference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 683009618,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:32:37Z",
+            "owner": "huggingface",
+            "repo": "alignment-handbook",
+            "stars": 5668
+          }
+        }
+      ],
+      "title": "Library"
+    },
+    {
+      "description": "Notation for the My Notes column:",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "R1",
+              "description": "DeepSeek-R1: Incentivizing Reasoning Capability via RL DeepSeek 2025 paper DeepSeek R1 深度技术解析及其影响",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919443098,
+                "language": null,
+                "last_commit": "2025-06-27T08:35:54Z",
+                "owner": "deepseek-ai",
+                "repo": "DeepSeek-R1",
+                "stars": 92036
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RL Reasoning Reproduction (R1 and Beyond)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LIMR",
+              "description": "LIMR: Less is More for RL Scaling GAIR-NLP 2025 paper, GitHub R1 相关：RL 数据选择与 Scaling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 934155930,
+                "language": "Python",
+                "last_commit": "2025-02-20T15:28:15Z",
+                "owner": "GAIR-NLP",
+                "repo": "LIMR",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ORZ",
+              "description": "Open-Reasoner-Zero StepFun 2025 paper, GitHub (omnibus → PPO-Data)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 935587127,
+                "language": "Python",
+                "last_commit": "2025-06-02T16:36:00Z",
+                "owner": "Open-Reasoner-Zero",
+                "repo": "Open-Reasoner-Zero",
+                "stars": 2099
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Online-DPO-R1",
+              "description": "Online-DPO-R1: Effective Reasoning Without the PPO Overhead Salesforce 2025 paper, GitHub R1 相关：DPO 数据选择与 DPO 等 RL 算法",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 931245844,
+                "language": "Python",
+                "last_commit": "2025-04-11T14:51:52Z",
+                "owner": "RLHFlow",
+                "repo": "Online-DPO-R1",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OREAL",
+              "description": "Exploring the Limit of Outcome Reward for Math Reasoning InternLM 2025 paper, GitHub (shelved: the \"limit of outcome reward\" question got absorbed by the process/dense-reward thread — DELTA / SVM — and RM-Data's \"unlocking\" view)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 930451618,
+                "language": "Python",
+                "last_commit": "2025-03-20T02:51:58Z",
+                "owner": "InternLM",
+                "repo": "OREAL",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepScaleR",
+              "description": "DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL Agentica 2025 paper, GitHub (omnibus → R1-New-Paradigm)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 922406522,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:46:08Z",
+                "owner": "rllm-org",
+                "repo": "rllm",
+                "stars": 5797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "L1 / LCPO",
+              "description": "Controlling How Long A Reasoning Model Thinks With RL CMU 2025 paper, GitHub (omnibus → R1-New-Paradigm)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944029251,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-14T03:34:34Z",
+                "owner": "cmu-l3",
+                "repo": "l1",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MRT",
+              "description": "Optimizing Test-Time Compute via Meta RL Fine-Tuning CMU 2025 paper, GitHub (shelved: budget control already covered by L1/LCPO in R1-New-Paradigm; its dense progress reward is the same sparse→dense move as Track 07)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944126814,
+                "language": "Python",
+                "last_commit": "2026-06-23T20:48:37Z",
+                "owner": "CMU-AIRe",
+                "repo": "MRT",
+                "stars": 120
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RL Data Selection & Scaling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeepSeekMath-V2",
+              "description": "Towards Self-Verifiable Mathematical Reasoning DeepSeek 2025 paper, GitHub DeepSeekMath-V2 自我验证：搞数据的风吹到了 RM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105098324,
+                "language": "Python",
+                "last_commit": "2025-12-01T07:01:42Z",
+                "owner": "deepseek-ai",
+                "repo": "DeepSeek-Math-V2",
+                "stars": 1603
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reward Model (modeling / data / verifier)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RLHF",
+              "description": "Training language models to follow instructions with human feedback OpenAI 2022 paper HuggingLLM 1.3.3：RLHF 流程与思想",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626473033,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-16T10:01:36Z",
+                "owner": "datawhalechina",
+                "repo": "hugging-llm",
+                "stars": 3063
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alignment Classics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GiGPO",
+              "description": "Group-in-Group Policy Optimization for LLM Agent Training NTU, Skywork AI 2025 paper, GitHub GiGPO：双层级优势函数驱动的 Agent RL 新范式",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 953478769,
+                "language": "Python",
+                "last_commit": "2026-06-09T13:35:49Z",
+                "owner": "langfengQ",
+                "repo": "verl-agent",
+                "stars": 2248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "COPO",
+              "description": "Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents Tencent 2026 paper, GitHub COPO：基于认知模式的 Step-Level Agentic RL 优化",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1112235007,
+                "language": "Python",
+                "last_commit": "2026-02-20T08:18:05Z",
+                "owner": "rhyang2021",
+                "repo": "CogRouter",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agentic RL (Step-Level Credit Assignment)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DAPO",
+              "description": "DAPO: An Open-Source LLM RL System at Scale ByteDance Seed 2025 paper, GitHub DAPO：为 GRPO 的锦上加四点花",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950036175,
+                "language": "Python",
+                "last_commit": "2025-05-11T09:09:41Z",
+                "owner": "BytedTsinghua-SIA",
+                "repo": "DAPO",
+                "stars": 1861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dr.GRPO",
+              "description": "Understanding R1-Zero-Like Training: A Critical Perspective Sea AI Lab 2025 paper, GitHub 异曲同工的 Dr.GRPO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951018704,
+                "language": "Python",
+                "last_commit": "2025-08-27T14:39:28Z",
+                "owner": "sail-sg",
+                "repo": "understand-r1-zero",
+                "stars": 1273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CISPO",
+              "description": "MiniMax-M1: Scaling Test-Time Compute Efficiently MiniMax 2025 paper, GitHub GRPO 优化在继续：CISPO 和熵",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001889935,
+                "language": "Python",
+                "last_commit": "2025-07-07T11:57:22Z",
+                "owner": "MiniMax-AI",
+                "repo": "MiniMax-M1",
+                "stars": 3178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GMPO",
+              "description": "Geometric-Mean Policy Optimization UCAS, Microsoft 2025 paper, GitHub (omnibus → Token-Level-GSPO-GMPO)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1019312405,
+                "language": "Python",
+                "last_commit": "2026-01-26T13:05:43Z",
+                "owner": "callsys",
+                "repo": "GMPO",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reinforce++",
+              "description": "REINFORCE++: Stabilizing Critic-Free Policy Optimization OpenRLHF 2025 paper, GitHub Reinforce++ 和它的 KL Loss 选择",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672415139,
+                "language": "Python",
+                "last_commit": "2026-08-13T11:26:24Z",
+                "owner": "OpenRLHF",
+                "repo": "OpenRLHF",
+                "stars": 9950
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DCPO",
+              "description": "DCPO: Dynamic Clipping Policy Optimization Baichuan 2025 paper, GitHub (described in GRPO-Clip: adaptive clip bounds based on token prior probability — expanding exploration room for low-probability tokens)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1044791137,
+                "language": "Python",
+                "last_commit": "2026-04-01T10:08:21Z",
+                "owner": "lime-RL",
+                "repo": "DCPO",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Optimization Algorithms (GRPO Family + Classics)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RL4LMs / NLPO",
+              "description": "RL (Not) for NLP: Benchmarks, Baselines, Building Blocks Allen 2022 paper, GitHub Personally cited milestone in AI-Future-Framework — first felt RL × NLP could really land",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526069335,
+                "language": "Python",
+                "last_commit": "2024-03-01T14:03:46Z",
+                "owner": "allenai",
+                "repo": "RL4LMs",
+                "stars": 2394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FTHP",
+              "description": "Fine-Tuning Language Models from Human Preferences OpenAI 2020 paper, GitHub OpenAI's earliest RLHF experiment; the seed of InstructGPT/ChatGPT",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 208397992,
+                "language": "Python",
+                "last_commit": "2023-07-25T16:48:57Z",
+                "owner": "openai",
+                "repo": "lm-human-preferences",
+                "stars": 1391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quark",
+              "description": "Quark: Controllable Text Generation with Reinforced [Un]learning Allen 2022 paper, GitHub Early attempt at RL for controllable generation × unlearning — niche but conceptually clean",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550440686,
+                "language": "Python",
+                "last_commit": "2023-11-03T22:17:43Z",
+                "owner": "GXimingLu",
+                "repo": "Quark",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DT",
+              "description": "Decision Transformer: RL via Sequence Modeling Berkeley 2021 paper, GitHub The \"RL = sequence modeling\" reframing — a parallel branch that diverged from the LLM-RL trunk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373111497,
+                "language": "Python",
+                "last_commit": "2024-04-29T01:30:45Z",
+                "owner": "kzl",
+                "repo": "decision-transformer",
+                "stars": 2830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rStar",
+              "description": "rStar: Mutual Reasoning Makes Smaller LLMs Stronger Microsoft 2024 paper, GitHub High-water mark of the MCTS + SLM mutual-reasoning line — conceptually clean, ended by R1 along with the rest of the search-based branch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 839137976,
+                "language": "Python",
+                "last_commit": "2025-01-23T22:02:48Z",
+                "owner": "zhentingqi",
+                "repo": "rStar",
+                "stars": 972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rStar-Math",
+              "description": "rStar-Math: Small LLMs Can Master Math Reasoning Microsoft 2025 paper, GitHub Shipped 12 days before R1 — the MCTS+PRM line's peak, instantly buried. The author had a blog half-written when R1 landed: a genuinely good paper born in the wrong era; (described in R1-New-Paradigm: rule-based verification on intermediate results via Python execution)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848189443,
+                "language": "Python",
+                "last_commit": "2025-09-12T08:26:02Z",
+                "owner": "microsoft",
+                "repo": "rStar",
+                "stars": 1425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PRIME",
+              "description": "Process Reinforcement through Implicit Rewards PRIME-RL 2025 paper, GitHub Implicit PRM (trained as ORM, used as PRM) — the line died with R1, though process reward itself returned later as Track 07's dense rewards; (described in R1-New-Paradigm)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 910395438,
+                "language": "Python",
+                "last_commit": "2025-03-18T04:02:27Z",
+                "owner": "PRIME-RL",
+                "repo": "PRIME",
+                "stars": 1870
+              }
+            }
+          ],
+          "description": "Pre-R1 RL × NLP works the author considers personally important. Kept here for sentimental and historical reasons rather than as active reading. Includes the final days of the pre-R1 era — PRIME and rStar-Math shipped in early January 2025, and R1 (Jan 20) buried their lines within weeks. The author's full reflection: 《通向 AGI 的技术路径：多模态、强化学习与新架构的交汇点》 — \"22 年 RL4LMs 出来后我兴奋的晚上觉都没睡着，第一时间就读了他们的代码。\"",
+          "node_type": "group",
+          "title": "Pre-R1 Foundations (Historical Anchors)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeepSeek-V3.2 Post-train",
+              "description": "DeepSeek-V3.2 Tech Report DeepSeek 2025 paper DeepSeek V3.2 后训练：稳定压倒一切",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 908531752,
+                "language": "Python",
+                "last_commit": "2025-08-28T03:24:37Z",
+                "owner": "deepseek-ai",
+                "repo": "DeepSeek-V3",
+                "stars": 104404
+              }
+            }
+          ],
+          "description": "Pure RL frontier: where the training loop itself is being pushed (boundary, process reward, experience-as-data, planning-as-data).",
+          "node_type": "group",
+          "title": "Frontier RL — Boundary, Process Reward & Experience"
+        }
+      ],
+      "title": "Papers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T09:31:54.163Z",
+    "last_updated": "2026-08-24T14:46:47.408Z",
     "original_repository": "hscspring/rl-llm-nlp",
     "original_repository_id": 907159620,
     "original_repository_sha": "0fc27b79d300de06dbd84c32abe5bd44ed89b645",

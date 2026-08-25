@@ -12,7 +12,7 @@
             "archived": false,
             "id": 934553284,
             "language": "Python",
-            "last_commit": "2026-08-25T06:24:00Z",
+            "last_commit": "2026-08-25T08:57:34Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
             "stars": 1966
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-25T05:36:18Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23116
+            "stars": 23125
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-25T05:31:33Z",
+            "last_commit": "2026-08-25T08:59:27Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19147
+            "stars": 19151
           }
         },
         {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-06-09T13:35:49Z",
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2249
+                "stars": 2250
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9951
+                "stars": 9952
               }
             },
             {
@@ -552,7 +552,7 @@
                 "last_commit": "2025-08-28T03:24:37Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104410
+                "stars": 104411
               }
             }
           ],
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:11.858Z",
+    "last_updated": "2026-08-25T09:20:50.316Z",
     "original_repository": "hscspring/rl-llm-nlp",
     "original_repository_id": 907159620,
     "original_repository_sha": "0fc27b79d300de06dbd84c32abe5bd44ed89b645",

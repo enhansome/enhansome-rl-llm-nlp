@@ -12,10 +12,10 @@
             "archived": false,
             "id": 934553284,
             "language": "Python",
-            "last_commit": "2026-08-24T12:39:30Z",
+            "last_commit": "2026-08-25T06:24:00Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 1963
+            "stars": 1966
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-24T14:11:26Z",
+            "last_commit": "2026-08-25T05:36:18Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23106
+            "stars": 23116
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-24T14:44:18Z",
+            "last_commit": "2026-08-25T05:31:33Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19144
+            "stars": 19147
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-26T10:32:37Z",
             "owner": "huggingface",
             "repo": "alignment-handbook",
-            "stars": 5668
+            "stars": 5669
           }
         }
       ],
@@ -128,7 +128,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92036
+                "stars": 92038
               }
             }
           ],
@@ -210,7 +210,7 @@
                 "last_commit": "2026-08-24T06:46:08Z",
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5797
+                "stars": 5800
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-06-09T13:35:49Z",
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2248
+                "stars": 2249
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9950
+                "stars": 9951
               }
             },
             {
@@ -552,7 +552,7 @@
                 "last_commit": "2025-08-28T03:24:37Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104404
+                "stars": 104410
               }
             }
           ],
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:46:47.408Z",
+    "last_updated": "2026-08-25T06:36:11.858Z",
     "original_repository": "hscspring/rl-llm-nlp",
     "original_repository_id": 907159620,
     "original_repository_sha": "0fc27b79d300de06dbd84c32abe5bd44ed89b645",

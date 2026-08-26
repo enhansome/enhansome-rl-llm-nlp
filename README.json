@@ -12,10 +12,10 @@
             "archived": false,
             "id": 934553284,
             "language": "Python",
-            "last_commit": "2026-08-25T08:57:34Z",
+            "last_commit": "2026-08-26T07:30:31Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 1966
+            "stars": 1970
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-03-18T04:02:27Z",
             "owner": "PRIME-RL",
             "repo": "PRIME",
-            "stars": 1870
+            "stars": 1871
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-25T05:36:18Z",
+            "last_commit": "2026-08-26T07:58:37Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23125
+            "stars": 23142
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-25T08:59:27Z",
+            "last_commit": "2026-08-26T09:17:47Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19151
+            "stars": 19155
           }
         },
         {
@@ -128,7 +128,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92038
+                "stars": 92043
               }
             }
           ],
@@ -306,7 +306,7 @@
                 "last_commit": "2026-06-09T13:35:49Z",
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2250
+                "stars": 2254
               }
             },
             {
@@ -373,7 +373,7 @@
                 "last_commit": "2025-07-07T11:57:22Z",
                 "owner": "MiniMax-AI",
                 "repo": "MiniMax-M1",
-                "stars": 3178
+                "stars": 3179
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9952
+                "stars": 9955
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2026-04-01T10:08:21Z",
                 "owner": "lime-RL",
                 "repo": "DCPO",
-                "stars": 49
+                "stars": 50
               }
             }
           ],
@@ -530,7 +530,7 @@
                 "last_commit": "2025-03-18T04:02:27Z",
                 "owner": "PRIME-RL",
                 "repo": "PRIME",
-                "stars": 1870
+                "stars": 1871
               }
             }
           ],
@@ -552,7 +552,7 @@
                 "last_commit": "2025-08-28T03:24:37Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104411
+                "stars": 104418
               }
             }
           ],
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:20:50.316Z",
+    "last_updated": "2026-08-26T09:26:18.284Z",
     "original_repository": "hscspring/rl-llm-nlp",
     "original_repository_id": 907159620,
     "original_repository_sha": "0fc27b79d300de06dbd84c32abe5bd44ed89b645",

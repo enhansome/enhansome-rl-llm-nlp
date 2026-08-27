@@ -12,10 +12,10 @@
             "archived": false,
             "id": 934553284,
             "language": "Python",
-            "last_commit": "2026-08-26T07:30:31Z",
+            "last_commit": "2026-08-27T11:02:34Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 1970
+            "stars": 1979
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-03-18T04:02:27Z",
             "owner": "PRIME-RL",
             "repo": "PRIME",
-            "stars": 1871
+            "stars": 1872
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-26T07:58:37Z",
+            "last_commit": "2026-08-27T09:34:36Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23142
+            "stars": 23153
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-26T09:17:47Z",
+            "last_commit": "2026-08-27T11:07:11Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19155
+            "stars": 19158
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-26T10:32:37Z",
             "owner": "huggingface",
             "repo": "alignment-handbook",
-            "stars": 5669
+            "stars": 5671
           }
         }
       ],
@@ -128,7 +128,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92043
+                "stars": 92038
               }
             }
           ],
@@ -210,7 +210,7 @@
                 "last_commit": "2026-08-24T06:46:08Z",
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5800
+                "stars": 5804
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-06-09T13:35:49Z",
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2254
+                "stars": 2257
               }
             },
             {
@@ -358,7 +358,7 @@
                 "last_commit": "2025-08-27T14:39:28Z",
                 "owner": "sail-sg",
                 "repo": "understand-r1-zero",
-                "stars": 1273
+                "stars": 1274
               }
             },
             {
@@ -373,7 +373,7 @@
                 "last_commit": "2025-07-07T11:57:22Z",
                 "owner": "MiniMax-AI",
                 "repo": "MiniMax-M1",
-                "stars": 3179
+                "stars": 3180
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9955
+                "stars": 9957
               }
             },
             {
@@ -530,7 +530,7 @@
                 "last_commit": "2025-03-18T04:02:27Z",
                 "owner": "PRIME-RL",
                 "repo": "PRIME",
-                "stars": 1871
+                "stars": 1872
               }
             }
           ],
@@ -552,7 +552,7 @@
                 "last_commit": "2025-08-28T03:24:37Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104418
+                "stars": 104421
               }
             }
           ],
@@ -565,10 +565,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:26:18.284Z",
-    "original_repository": "hscspring/rl-llm-nlp",
-    "original_repository_id": 907159620,
-    "original_repository_sha": "0fc27b79d300de06dbd84c32abe5bd44ed89b645",
+    "last_updated": "2026-08-27T12:02:40.337Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 907159620,
+      "language": null,
+      "last_commit": "2026-08-26T12:42:53Z",
+      "owner": "hscspring",
+      "repo": "rl-llm-nlp",
+      "stars": 73
+    },
+    "original_repository_sha": "53d33ed4bdb92ed85b242f1846edf21630bebe6d",
     "enhanced_repository": "enhansome/enhansome-rl-llm-nlp",
     "enhanced_repository_description": null,
     "title": "Awesome RL-LLM-NLP with stars"

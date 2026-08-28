@@ -12,11 +12,12 @@
             "archived": false,
             "id": 934553284,
             "language": "Python",
-            "last_commit": "2026-08-27T18:35:10Z",
+            "last_commit": "2026-08-28T20:13:26Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 1980
-          }
+            "stars": 1985
+          },
+          "first_seen": "2026-08-28T20:26:04.660Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "PRIME-RL",
             "repo": "PRIME",
             "stars": 1872
-          }
+          },
+          "first_seen": "2026-08-28T20:26:04.660Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "microsoft",
             "repo": "rStar",
             "stars": 1425
-          }
+          },
+          "first_seen": "2026-08-28T20:26:04.660Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-27T09:34:36Z",
+            "last_commit": "2026-08-28T07:26:14Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23159
-          }
+            "stars": 23179
+          },
+          "first_seen": "2026-08-28T20:26:04.660Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-27T17:16:05Z",
+            "last_commit": "2026-08-28T16:20:00Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19160
-          }
+            "stars": 19171
+          },
+          "first_seen": "2026-08-28T20:26:04.660Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "allenai",
             "repo": "RL4LMs",
             "stars": 2394
-          }
+          },
+          "first_seen": "2026-08-28T20:26:04.660Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "huggingface",
             "repo": "alignment-handbook",
             "stars": 5672
-          }
+          },
+          "first_seen": "2026-08-28T20:26:04.660Z"
         }
       ],
       "title": "Library"
@@ -128,8 +135,9 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92038
-              }
+                "stars": 92039
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             }
           ],
           "description": null,
@@ -151,7 +159,8 @@
                 "owner": "GAIR-NLP",
                 "repo": "LIMR",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "Open-Reasoner-Zero",
                 "repo": "Open-Reasoner-Zero",
                 "stars": 2099
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "RLHFlow",
                 "repo": "Online-DPO-R1",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "InternLM",
                 "repo": "OREAL",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -210,8 +222,9 @@
                 "last_commit": "2026-08-24T06:46:08Z",
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5806
-              }
+                "stars": 5807
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "cmu-l3",
                 "repo": "l1",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "CMU-AIRe",
                 "repo": "MRT",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             }
           ],
           "description": null,
@@ -263,7 +278,8 @@
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-Math-V2",
                 "stars": 1604
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             }
           ],
           "description": null,
@@ -285,7 +301,8 @@
                 "owner": "datawhalechina",
                 "repo": "hugging-llm",
                 "stars": 3062
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             }
           ],
           "description": null,
@@ -307,7 +324,8 @@
                 "owner": "langfengQ",
                 "repo": "verl-agent",
                 "stars": 2257
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -322,7 +340,8 @@
                 "owner": "rhyang2021",
                 "repo": "CogRouter",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             }
           ],
           "description": null,
@@ -343,8 +362,9 @@
                 "last_commit": "2025-05-11T09:09:41Z",
                 "owner": "BytedTsinghua-SIA",
                 "repo": "DAPO",
-                "stars": 1860
-              }
+                "stars": 1861
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -359,7 +379,8 @@
                 "owner": "sail-sg",
                 "repo": "understand-r1-zero",
                 "stars": 1274
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -374,7 +395,8 @@
                 "owner": "MiniMax-AI",
                 "repo": "MiniMax-M1",
                 "stars": 3180
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -389,7 +411,8 @@
                 "owner": "callsys",
                 "repo": "GMPO",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -404,7 +427,8 @@
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
                 "stars": 9957
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -419,7 +443,8 @@
                 "owner": "lime-RL",
                 "repo": "DCPO",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             }
           ],
           "description": null,
@@ -441,7 +466,8 @@
                 "owner": "allenai",
                 "repo": "RL4LMs",
                 "stars": 2394
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -456,7 +482,8 @@
                 "owner": "openai",
                 "repo": "lm-human-preferences",
                 "stars": 1391
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -471,7 +498,8 @@
                 "owner": "GXimingLu",
                 "repo": "Quark",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -486,7 +514,8 @@
                 "owner": "kzl",
                 "repo": "decision-transformer",
                 "stars": 2830
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -501,7 +530,8 @@
                 "owner": "zhentingqi",
                 "repo": "rStar",
                 "stars": 972
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -516,7 +546,8 @@
                 "owner": "microsoft",
                 "repo": "rStar",
                 "stars": 1425
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             },
             {
               "node_type": "item",
@@ -531,7 +562,8 @@
                 "owner": "PRIME-RL",
                 "repo": "PRIME",
                 "stars": 1872
-              }
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             }
           ],
           "description": "Pre-R1 RL × NLP works the author considers personally important. Kept here for sentimental and historical reasons rather than as active reading. Includes the final days of the pre-R1 era — PRIME and rStar-Math shipped in early January 2025, and R1 (Jan 20) buried their lines within weeks. The author's full reflection: 《通向 AGI 的技术路径：多模态、强化学习与新架构的交汇点》 — \"22 年 RL4LMs 出来后我兴奋的晚上觉都没睡着，第一时间就读了他们的代码。\"",
@@ -552,8 +584,9 @@
                 "last_commit": "2025-08-28T03:24:37Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104422
-              }
+                "stars": 104428
+              },
+              "first_seen": "2026-08-28T20:26:04.660Z"
             }
           ],
           "description": "Pure RL frontier: where the training loop itself is being pushed (boundary, process reward, experience-as-data, planning-as-data).",
@@ -565,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:43.210Z",
+    "last_updated": "2026-08-28T20:26:04.660Z",
     "original_repository_info": {
       "archived": false,
       "id": 907159620,

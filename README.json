@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T11:58:56Z",
-            "open_issues": 226,
+            "open_issues": 228,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 2013,
+            "stars": 2014,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -65,7 +65,7 @@
             "open_issues": 38,
             "owner": "microsoft",
             "repo": "rStar",
-            "stars": 1427,
+            "stars": 1426,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -83,10 +83,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T22:00:53Z",
-            "open_issues": 1238,
+            "open_issues": 1243,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23304,
+            "stars": 23315,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -103,11 +103,11 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T09:35:22Z",
-            "open_issues": 336,
+            "last_commit": "2026-09-06T05:14:01Z",
+            "open_issues": 329,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19224,
+            "stars": 19232,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -159,7 +159,7 @@
             "open_issues": 98,
             "owner": "huggingface",
             "repo": "alignment-handbook",
-            "stars": 5672,
+            "stars": 5674,
             "topics": [
               "llm",
               "rlhf",
@@ -192,7 +192,7 @@
                 "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92021,
+                "stars": 92019,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -220,7 +220,7 @@
                 "open_issues": 15,
                 "owner": "GAIR-NLP",
                 "repo": "LIMR",
-                "stars": 222,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -306,8 +306,8 @@
                 "id": 922406522,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T21:21:47Z",
-                "open_issues": 164,
+                "last_commit": "2026-09-06T06:05:48Z",
+                "open_issues": 163,
                 "owner": "rllm-org",
                 "repo": "rllm",
                 "stars": 5814,
@@ -451,7 +451,7 @@
                 "open_issues": 66,
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2277,
+                "stars": 2278,
                 "topics": [
                   "agent-framework",
                   "deepseek-r1",
@@ -512,7 +512,7 @@
                 "open_issues": 25,
                 "owner": "BytedTsinghua-SIA",
                 "repo": "DAPO",
-                "stars": 1864,
+                "stars": 1866,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -606,7 +606,7 @@
                 "open_issues": 369,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9976,
+                "stars": 9977,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -737,7 +737,7 @@
                 "open_issues": 37,
                 "owner": "kzl",
                 "repo": "decision-transformer",
-                "stars": 2830,
+                "stars": 2831,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -779,7 +779,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1427,
+                "stars": 1426,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -832,7 +832,7 @@
                 "open_issues": 217,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104432,
+                "stars": 104436,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:07:52.278Z",
+    "last_updated": "2026-09-06T12:22:03.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated, opinionated index of post-R1 LLM × Reinforcement Learning. Many deep-dive blog posts cross-linked to many papers — GRPO, DAPO, DPO, PPO, RLHF, GSPO, CISPO, VAPO, Reward Modeling, MoE RL stability, Verifier-Free RL, Training-Free RL, Agentic RL, DeepSeek-R1 reproduction.",

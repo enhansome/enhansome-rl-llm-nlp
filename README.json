@@ -15,11 +15,11 @@
             "id": 934553284,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T12:56:52Z",
+            "last_commit": "2026-09-12T03:23:29Z",
             "open_issues": 244,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 2033,
+            "stars": 2034,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -82,11 +82,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T03:46:45Z",
-            "open_issues": 1214,
+            "last_commit": "2026-09-11T23:27:37Z",
+            "open_issues": 1220,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23389,
+            "stars": 23397,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -103,11 +103,11 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T12:43:51Z",
-            "open_issues": 306,
+            "last_commit": "2026-09-12T09:37:00Z",
+            "open_issues": 310,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19281,
+            "stars": 19291,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -192,7 +192,7 @@
                 "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92000,
+                "stars": 91999,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -423,7 +423,7 @@
                 "open_issues": 0,
                 "owner": "datawhalechina",
                 "repo": "hugging-llm",
-                "stars": 3063,
+                "stars": 3064,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -451,7 +451,7 @@
                 "open_issues": 66,
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2297,
+                "stars": 2299,
                 "topics": [
                   "agent-framework",
                   "deepseek-r1",
@@ -559,7 +559,7 @@
                 "open_issues": 31,
                 "owner": "MiniMax-AI",
                 "repo": "MiniMax-M1",
-                "stars": 3182,
+                "stars": 3181,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -603,10 +603,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T14:35:17Z",
-                "open_issues": 367,
+                "open_issues": 368,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9994,
+                "stars": 9996,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -829,10 +829,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-08-28T03:24:37Z",
-                "open_issues": 221,
+                "open_issues": 222,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104428,
+                "stars": 104431,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:02:26.300Z",
+    "last_updated": "2026-09-12T12:24:11.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated, opinionated index of post-R1 LLM × Reinforcement Learning. Many deep-dive blog posts cross-linked to many papers — GRPO, DAPO, DPO, PPO, RLHF, GSPO, CISPO, VAPO, Reward Modeling, MoE RL stability, Verifier-Free RL, Training-Free RL, Agentic RL, DeepSeek-R1 reproduction.",

@@ -15,11 +15,11 @@
             "id": 934553284,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T18:12:14Z",
-            "open_issues": 207,
+            "last_commit": "2026-10-13T16:17:55Z",
+            "open_issues": 218,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 2157,
+            "stars": 2158,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -65,7 +65,7 @@
             "open_issues": 39,
             "owner": "microsoft",
             "repo": "rStar",
-            "stars": 1430,
+            "stars": 1431,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -82,11 +82,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T13:30:58Z",
-            "open_issues": 1353,
+            "last_commit": "2026-10-13T16:00:55Z",
+            "open_issues": 1350,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23838,
+            "stars": 23854,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -103,11 +103,11 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T17:09:12Z",
-            "open_issues": 253,
+            "last_commit": "2026-10-13T16:27:25Z",
+            "open_issues": 272,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19498,
+            "stars": 19508,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:04.660Z"
@@ -159,7 +159,7 @@
             "open_issues": 100,
             "owner": "huggingface",
             "repo": "alignment-handbook",
-            "stars": 5693,
+            "stars": 5695,
             "topics": [
               "llm",
               "rlhf",
@@ -189,10 +189,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91900,
+                "stars": 91897,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -241,7 +241,7 @@
                 "open_issues": 22,
                 "owner": "Open-Reasoner-Zero",
                 "repo": "Open-Reasoner-Zero",
-                "stars": 2099,
+                "stars": 2100,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -310,7 +310,7 @@
                 "open_issues": 171,
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5871,
+                "stars": 5876,
                 "topics": [
                   "agent-framework",
                   "agentic-workflow",
@@ -451,7 +451,7 @@
                 "open_issues": 69,
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2369,
+                "stars": 2373,
                 "topics": [
                   "agent-framework",
                   "deepseek-r1",
@@ -512,7 +512,7 @@
                 "open_issues": 25,
                 "owner": "BytedTsinghua-SIA",
                 "repo": "DAPO",
-                "stars": 1947,
+                "stars": 1948,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -603,10 +603,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T17:33:02Z",
-                "open_issues": 393,
+                "open_issues": 395,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10081,
+                "stars": 10083,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -695,7 +695,7 @@
                 "open_issues": 16,
                 "owner": "openai",
                 "repo": "lm-human-preferences",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -758,7 +758,7 @@
                 "open_issues": 24,
                 "owner": "zhentingqi",
                 "repo": "rStar",
-                "stars": 967,
+                "stars": 966,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -779,7 +779,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1430,
+                "stars": 1431,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -829,10 +829,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-08-28T03:24:37Z",
-                "open_issues": 286,
+                "open_issues": 287,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104495,
+                "stars": 104500,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:14:57.455Z",
+    "last_updated": "2026-10-13T16:29:07.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated, opinionated index of post-R1 LLM × Reinforcement Learning. Many deep-dive blog posts cross-linked to many papers — GRPO, DAPO, DPO, PPO, RLHF, GSPO, CISPO, VAPO, Reward Modeling, MoE RL stability, Verifier-Free RL, Training-Free RL, Agentic RL, DeepSeek-R1 reproduction.",

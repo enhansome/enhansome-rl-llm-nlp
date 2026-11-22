@@ -21,7 +21,7 @@
                 "open_issues": 46,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92056,
+                "stars": 92063,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -67,7 +67,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-06-02T16:36:00Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "Open-Reasoner-Zero",
                 "repo": "Open-Reasoner-Zero",
                 "stars": 2103,
@@ -313,7 +313,7 @@
                 "open_issues": 25,
                 "owner": "BytedTsinghua-SIA",
                 "repo": "DAPO",
-                "stars": 1959,
+                "stars": 1960,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -334,7 +334,7 @@
                 "open_issues": 9,
                 "owner": "sail-sg",
                 "repo": "understand-r1-zero",
-                "stars": 1288,
+                "stars": 1289,
                 "topics": [
                   "llm",
                   "r1-zero",
@@ -404,7 +404,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T03:17:19Z",
-                "open_issues": 436,
+                "open_issues": 437,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
                 "stars": 10173,
@@ -546,7 +546,7 @@
                 "open_issues": 335,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104888,
+                "stars": 104896,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -576,11 +576,11 @@
                 "id": 934553284,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T08:28:12Z",
-                "open_issues": 268,
+                "last_commit": "2026-11-22T15:33:31Z",
+                "open_issues": 262,
                 "owner": "PrimeIntellect-ai",
                 "repo": "prime-rl",
-                "stars": 2268,
+                "stars": 2269,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -643,11 +643,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T18:48:57Z",
-                "open_issues": 1527,
+                "last_commit": "2026-11-22T14:17:17Z",
+                "open_issues": 1535,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24303,
+                "stars": 24312,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -665,10 +665,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T13:11:55Z",
-                "open_issues": 310,
+                "open_issues": 311,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19788,
+                "stars": 19792,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -720,7 +720,7 @@
                 "open_issues": 100,
                 "owner": "huggingface",
                 "repo": "alignment-handbook",
-                "stars": 5716,
+                "stars": 5719,
                 "topics": [
                   "llm",
                   "rlhf",
@@ -739,7 +739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:26:03.462Z",
+    "last_updated": "2026-11-22T16:42:05.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "An opinionated atlas of model post-training across modalities: RL, rewards, alignment, distillation, adaptation, agents, and their connections.",

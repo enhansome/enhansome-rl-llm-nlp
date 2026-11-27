@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92063,
+                "stars": 92056,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -136,10 +136,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-25T23:36:40Z",
-                "open_issues": 209,
+                "open_issues": 210,
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5934,
+                "stars": 5936,
                 "topics": [
                   "agent-framework",
                   "agentic-workflow",
@@ -224,7 +224,7 @@
                 "open_issues": 11,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-Math-V2",
-                "stars": 1627,
+                "stars": 1628,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -252,7 +252,7 @@
                 "open_issues": 71,
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2461,
+                "stars": 2460,
                 "topics": [
                   "agent-framework",
                   "deepseek-r1",
@@ -313,7 +313,7 @@
                 "open_issues": 25,
                 "owner": "BytedTsinghua-SIA",
                 "repo": "DAPO",
-                "stars": 1961,
+                "stars": 1964,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -403,11 +403,11 @@
                 "id": 672415139,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T17:13:50Z",
-                "open_issues": 443,
+                "last_commit": "2026-11-27T01:39:15Z",
+                "open_issues": 437,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10183,
+                "stars": 10186,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -543,10 +543,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-08-28T03:24:37Z",
-                "open_issues": 343,
+                "open_issues": 347,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104917,
+                "stars": 104919,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -576,8 +576,8 @@
                 "id": 934553284,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T18:36:30Z",
-                "open_issues": 279,
+                "last_commit": "2026-11-27T18:18:34Z",
+                "open_issues": 286,
                 "owner": "PrimeIntellect-ai",
                 "repo": "prime-rl",
                 "stars": 2282,
@@ -643,11 +643,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T14:37:34Z",
-                "open_issues": 1565,
+                "last_commit": "2026-11-27T03:06:43Z",
+                "open_issues": 1568,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24364,
+                "stars": 24374,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -664,11 +664,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T14:58:54Z",
-                "open_issues": 293,
+                "last_commit": "2026-11-27T15:09:46Z",
+                "open_issues": 276,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19838,
+                "stars": 19846,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:04.660Z"
@@ -739,7 +739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:40:10.765Z",
+    "last_updated": "2026-11-27T18:30:14.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "An opinionated atlas of model post-training across modalities: RL, rewards, alignment, distillation, adaptation, agents, and their connections.",
@@ -751,7 +751,7 @@
       "open_issues": 0,
       "owner": "hscspring",
       "repo": "post-training-atlas",
-      "stars": 79,
+      "stars": 80,
       "topics": [
         "agentic-rl",
         "alignment",
